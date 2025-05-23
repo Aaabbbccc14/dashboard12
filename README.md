@@ -16,7 +16,7 @@
 
 ## 🖼️ Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.jpg)
 
 ---
 
