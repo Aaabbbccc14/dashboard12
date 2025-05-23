@@ -1,6 +1,7 @@
 # Wealth Distribution Dashboard (WPF)
 
-📊 This WPF application visualizes user data using charts and integrates both local database and external API.
+This WPF application visualizes user data using charts and integrates both local database and external API.
+
 
 ---
 
@@ -19,14 +20,5 @@
 ![Dashboard](dashboard.jpg)
 
 ---
-
-## 🚀 How to Run
-
-1. Download the `.zip` from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
-2. Unzip and run `WpfDashboard.exe`
-3. Click buttons to add user, load from DB, or fetch from API
-
----
-
-## 📁 Project Structure
+![Dashboard](screen.jpg)
 
