@@ -10,16 +10,15 @@
 - SQLite database integration (`System.Data.SQLite`)
 - API data loading from jsonplaceholder.typicode.com
 - Clean WPF interface with modern styling
-- Lightweight `.exe` for Windows
 
 ---
 
 ## Technologies Used
 
--WPF (.NET 8): Desktop UI framework
--SQLite (System.Data.SQLite): Lightweight local database for data persistence
--HttpClient: For making HTTP requests to fetch external data
--LiveCharts: (Optional) For future data visualization enhancements
+- WPF (.NET 8): Desktop UI framework
+- SQLite (System.Data.SQLite): Lightweight local database for data persistence
+- HttpClient: For making HTTP requests to fetch external data
+- LiveCharts: (Optional) For future data visualization enhancements
 
 ---
 
